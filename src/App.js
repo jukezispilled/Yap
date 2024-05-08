@@ -45,7 +45,7 @@ function App() {
         </div>
       </div>
           <Marquee speed={90}>
-            <div className='h-16 flex items-center text-[30px] lg:text-5xl font-custom whitespace-nowrap border-y-2 border-black font-bold'>$YAP $YAP $YAP $YAP $YAP $YAP $YAP $YAP $YAP $YAP $YAP $YAP $YAP $YAP $YAP $YAP $YAP&nbsp;</div>
+            <div className='h-16 flex items-center text-[30px] lg:text-5xl font-custom whitespace-nowrap border-y-2 border-black font-extrabold'>$YAP $YAP $YAP $YAP $YAP $YAP $YAP $YAP $YAP $YAP $YAP $YAP $YAP $YAP $YAP $YAP $YAP&nbsp;</div>
           </Marquee>
           <div className='relative h-screen w-screen flex justify-center items-center'>
             <div className='absolute top-[10%] text-5xl md:text-6xl lg:text-8xl text-center font-bold'>YAP 4 $YAP</div>
