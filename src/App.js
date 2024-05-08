@@ -31,7 +31,7 @@ function App() {
                 <p className='text-white text-2xl font-bold'>COMMUNITY TAKEOVER</p>
               </div>
             </div>
-            <div className='text-9xl lg:text-[275px] font-bold text-center'>YAP</div>
+            <div className='text-9xl lg:text-[275px] font-extrabold text-center'>YAP</div>
             <div className='flex justify-center hover:scale-105 transition ease-in-out duration-200'>
               <a href="https://dexscreener.com/solana/5l9cpyxsygjwpxqm8b1hjghzcggrvr8gcd6ikorhmd3t" className='text-7xl text-center bg-black w-min py-2 px-5 rounded-xl font-semibold text-white'>
                 BUY
